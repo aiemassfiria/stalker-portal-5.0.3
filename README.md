@@ -2,8 +2,6 @@
 
 Stalker Portal auto install script on Ubuntu 20.04 LTS / 18.04 LTS
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=4H8VAGMLW5RMA)  You can make one-time donations via PayPal.
-
 ##### Runs on
 [![Ubuntu](https://user-images.githubusercontent.com/12951085/139538206-833d8d33-0d1b-4d51-8ec8-86e5cf14f82e.png)](https://www.ubuntu.com)
 
@@ -15,7 +13,7 @@ Stalker auto install script
 ## Installation
 ```bash
 apt-get install git
-git clone https://github.com/madzharov/stalker-portal-5.0.3.git
+git clone https://github.com/aiemassfiria/stalker-portal-5.0.3.git
 cd stalker-portal-5.0.3/
 ```
 
