@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e " \e[32mUpdateing system\e[0m"
+echo -e " \e[32mUpdating system\e[0m"
 sleep 2
 apt-get update -y
 apt-get upgrade -y
@@ -9,8 +9,8 @@ apt-get install net-tools -y
 VERSION="5.0.3"
 TIME_ZONE="Europe/Amsterdam"
 mysql_root_password="test123456"
-repository="http://vancho.xyz/stalker"
-
+#repository="http://vancho.xyz/stalker"
+repository="http://179.61.232.202/stalker"
 # SET LOCALE TO UTF-8
 function setLocale {
 	echo -e " \e[32mSetting locales\e[0m"
